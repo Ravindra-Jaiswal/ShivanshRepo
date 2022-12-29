@@ -32,5 +32,5 @@ jobs:
       with:
         image: ravindrajaiswal/shivanshdockerrepo-2022
         registry: docker.io
-        username: ${{ secrets.DOCKER_USERNAME }}
-        password: ${{ secrets.DOCKER_PASSWORD }}
+        username: ravindrajaiswal
+        password: Ravindra@1981
