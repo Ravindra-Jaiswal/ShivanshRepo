@@ -1,0 +1,15 @@
+C:\Ravindra\Demo\ShivanshRepo\bin\Debug\net6.0\ShivanshRepo.exe
+C:\Ravindra\Demo\ShivanshRepo\bin\Debug\net6.0\ShivanshRepo.deps.json
+C:\Ravindra\Demo\ShivanshRepo\bin\Debug\net6.0\ShivanshRepo.runtimeconfig.json
+C:\Ravindra\Demo\ShivanshRepo\bin\Debug\net6.0\ShivanshRepo.dll
+C:\Ravindra\Demo\ShivanshRepo\bin\Debug\net6.0\ShivanshRepo.pdb
+C:\Ravindra\Demo\ShivanshRepo\obj\Debug\net6.0\ShivanshRepo.csproj.AssemblyReference.cache
+C:\Ravindra\Demo\ShivanshRepo\obj\Debug\net6.0\ShivanshRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ravindra\Demo\ShivanshRepo\obj\Debug\net6.0\ShivanshRepo.AssemblyInfoInputs.cache
+C:\Ravindra\Demo\ShivanshRepo\obj\Debug\net6.0\ShivanshRepo.AssemblyInfo.cs
+C:\Ravindra\Demo\ShivanshRepo\obj\Debug\net6.0\ShivanshRepo.csproj.CoreCompileInputs.cache
+C:\Ravindra\Demo\ShivanshRepo\obj\Debug\net6.0\ShivanshRepo.dll
+C:\Ravindra\Demo\ShivanshRepo\obj\Debug\net6.0\refint\ShivanshRepo.dll
+C:\Ravindra\Demo\ShivanshRepo\obj\Debug\net6.0\ShivanshRepo.pdb
+C:\Ravindra\Demo\ShivanshRepo\obj\Debug\net6.0\ShivanshRepo.genruntimeconfig.cache
+C:\Ravindra\Demo\ShivanshRepo\obj\Debug\net6.0\ref\ShivanshRepo.dll
