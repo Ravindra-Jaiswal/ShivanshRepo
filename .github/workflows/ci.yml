@@ -26,11 +26,3 @@ jobs:
       run: dotnet build --no-restore
     - name: Test
       run: dotnet test --no-build --verbosity normal
-
-    - name: Build and Push Docker Image
-      uses: mr-smithers-excellent/docker-build-push@v4
-      with:
-        image: ravindrajaiswal/shivanshdockerrepo-2022
-        registry: docker.io
-        username: ravindrajaiswal
-        password: Ravindra@1981
